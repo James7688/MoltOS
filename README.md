@@ -71,5 +71,5 @@ Follow these steps to install MoltOS:
 5. **Reboot and Enjoy**: Start using MoltOS for your cybersecurity needs!  
 
 ## CREDIT:
-Quy Anh Nguyen - Developer
-luohoa97 - Developer
+1. Quy Anh Nguyen - Developer
+2. luohoa97 - Developer
