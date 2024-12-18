@@ -64,7 +64,7 @@ To run MoltOS efficiently, ensure your system meets the following requirements:
 
 Follow these steps to install MoltOS:
 
-1. **Download the ISO**: [Insert Download Link Here]  
+1. **Download the ISO**: [Coming Soon]  
 2. **Create Bootable Media**: Use tools like **Rufus** (Windows) or `dd` (Linux/Mac) to write the ISO to a USB drive.  
 3. **Boot from USB**: Restart your computer and boot from the USB drive.  
 4. **Follow the Installation Wizard**: A step-by-step installer will guide you through the process.  
