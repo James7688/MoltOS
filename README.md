@@ -5,6 +5,12 @@
 
 ---
 
+## Preview
+
+![image](https://github.com/James7688/MoltOS/blob/main/preview.png)
+
+---
+
 ## Download MoltOS (Beta ISO)
 
 Download the latest MoltOS Beta ISO from the Releases page:
