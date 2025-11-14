@@ -1,7 +1,7 @@
-# ![image](https://github.com/James7688/MoltOS/blob/main/icon.png) MoltOS — A Modern Linux Distribution for Privacy, Security & Research  
-### **Version:** Beta Release  
-### **Base System:** Debian 12 (Bookworm)  
-### **Desktop Environment:** GNOME 43  
+<h1>
+  <img src="https://raw.githubusercontent.com/James7688/MoltOS/main/icon.png" width="50" style="margin-right: 10px;">
+  MoltOS — A Modern Linux Distribution for Privacy & Security
+</h1>
 
 ---
 
