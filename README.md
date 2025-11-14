@@ -31,8 +31,6 @@ Download the latest MoltOS ISO from the Releases page:
 
 Unlike typical penetration-testing distributions, MoltOS prioritizes a **clean, modern GNOME experience**, strong default privacy settings, and only legally-safe, open-source, defensive tools.
 
-This beta release includes full MoltOS branding and a polished GNOME desktop.
-
 ---
 
 ## Security, Privacy & Research Tools
