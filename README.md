@@ -29,24 +29,6 @@ This beta release includes full MoltOS branding and a polished GNOME desktop.
 
 ---
 
-## Visual Experience & Branding
-
-MoltOS includes:
-
-- 🖼️ **Custom MoltOS wallpaper**  
-- 🟧 **MoltOS icon theme (logo included)**  
-- 🟦 **Clean GNOME desktop layout**  
-- 🔒 **Customized branding on lock/login screen**  
-
-The installed system will show:
-
-- ✔ Correct wallpaper  
-- ✔ Correct user icon  
-- ✔ GNOME dock (post-install)  
-- ✔ Custom GNOME style  
-
----
-
 ## Security, Privacy & Research Tools
 
 MoltOS provides a carefully curated set of safe, legal cybersecurity and privacy tools.
@@ -106,14 +88,15 @@ All tools shipped in MoltOS are fully free, open-source, legal, and suitable for
 - **8 GB USB drive or SSD**  
 - Works on both **UEFI** and **Legacy BIOS**
 
-**NOTE:** This entire OS is developed by me.
-
 ---
 
 ## 🔨 Building MoltOS from Source
 
 This repository contains the complete `live-build` configuration used to generate MoltOS.
 
-### ▶️ Install `live-build`:
+### Install `live-build`:
 ```bash
 sudo apt install live-build
+```
+
+**NOTE:** This entire Operating System is developed by me. Please **report bug** to ``quyanh082013@gmail.com``.
