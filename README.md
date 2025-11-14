@@ -94,14 +94,4 @@ All tools shipped in MoltOS are fully free, open-source, legal, and suitable for
 
 ---
 
-## Building MoltOS from Source
-
-This repository contains the complete `live-build` configuration used to generate MoltOS.
-
-### Install `live-build`:
-```bash
-sudo apt install live-build
-```
----
-
 **NOTE:** This entire Operating System is developed by me. Please **report bug** to ``quyanh082013@gmail.com``.
