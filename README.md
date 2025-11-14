@@ -11,9 +11,9 @@
 
 ---
 
-## Download MoltOS (Beta ISO)
+## Download MoltOS
 
-Download the latest MoltOS Beta ISO from the Releases page:
+Download the latest MoltOS ISO from the Releases page:
 
 **https://github.com/James7688/MoltOS/releases**
 
