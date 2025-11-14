@@ -1,4 +1,4 @@
-[image](https://github.com/James7688/MoltOS/blob/main/icon.png)
+![image](https://github.com/James7688/MoltOS/blob/main/icon.png)
 
 # MoltOS — A Modern Linux Distribution for Privacy, Security & Research  
 ### **Version:** Beta Release  
