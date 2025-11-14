@@ -90,7 +90,7 @@ All tools shipped in MoltOS are fully free, open-source, legal, and suitable for
 
 ---
 
-## 🔨 Building MoltOS from Source
+## Building MoltOS from Source
 
 This repository contains the complete `live-build` configuration used to generate MoltOS.
 
