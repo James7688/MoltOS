@@ -104,5 +104,6 @@ This repository contains the complete `live-build` configuration used to generat
 ```bash
 sudo apt install live-build
 ```
+---
 
 **NOTE:** This entire Operating System is developed by me. Please **report bug** to ``quyanh082013@gmail.com``.
