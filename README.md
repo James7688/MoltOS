@@ -91,7 +91,7 @@ All tools shipped in MoltOS are fully free, open-source, legal, and suitable for
 - **2 GB RAM minimum** (4 GB recommended)  
 - **8 GB USB drive or SSD**  
 - Works on both **UEFI** and **Legacy BIOS**
-- Notice:The system is in early testing phase. Please contact to the MoltOS developers or use Issues page.
+- Notice:The system is in early testing phase. Please contact to the MoltOS developers with discord, username is enterteinos and 3rr0r11011.
   
 ---
 
