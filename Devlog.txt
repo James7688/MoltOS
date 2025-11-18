@@ -1,0 +1,5 @@
+--------------------------------------------------------------------------------------
+Notice for devs: [username here]@[user permission example:sudo or root or user or r/w or r depending on the sys]=[timestamp here example: Nov1-8:10AM]:[loghere]
+Notice created at:Nov 18 8:42PM
+--------------------------------------------------------------------------------------
+Tech@user-root=Nov18-8-43PM:The system is running smoothly and the bootloader iso needed to change logo from hardhat to moltOS logo. Theres no live user password which can make the user got logout change the debian 12 logo at boot or sth. ----LOG ENDED---Signed:Techcoolguy
