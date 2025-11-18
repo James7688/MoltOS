@@ -94,4 +94,10 @@ All tools shipped in MoltOS are fully free, open-source, legal, and suitable for
 
 ---
 
-**NOTE:** This entire Operating System is developed by me. Please **report bug** to ``quyanh082013@gmail.com``.
+## Credits
+
+List of developers !
+
+<a href="https://github.com/James7688/MoltOS/graphs/contributors">
+  <img src="https://contrib.rocks/image?&columns=25&max=10000&&repo=James7688/MoltOS" alt="contributors"/>
+</a>
