@@ -21,7 +21,7 @@ Download the latest MoltOS ISO from the Releases page:
 
 ## Overview
 
-**MoltOS** is a Debian-based Linux distribution built with a strong focus on:
+**MoltOS** is a Debian-based (12) Linux distribution built with a strong focus on:
 
 - **User Privacy**
 - **Defensive Security Analysis**
