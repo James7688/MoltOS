@@ -87,7 +87,7 @@ All tools shipped in MoltOS are fully free, open-source, legal, and suitable for
 
 ## System Requirements
 
-- **64-bit system (amd64)**  
+- **64-bit system (amd64 or x86_64 Arm Family not supported)**  
 - **2 GB RAM minimum** (4 GB recommended)  
 - **8 GB USB drive or SSD**  
 - Works on both **UEFI** and **Legacy BIOS**
