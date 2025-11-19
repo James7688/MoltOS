@@ -102,3 +102,8 @@ List of developers !
 <a href="https://github.com/James7688/MoltOS/graphs/contributors">
   <img src="https://contrib.rocks/image?&columns=25&max=10000&&repo=James7688/MoltOS" alt="contributors"/>
 </a>
+
+---
+#physical installer
+
+We are currrently going to sell disc or usb contain the image of MoltOS (or sometime MoltOS Special edition)if we arent going make it then you have to Do it yourself.
