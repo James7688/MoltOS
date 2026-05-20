@@ -101,7 +101,7 @@ List of developers !
 
 <a href="https://github.com/James7688/MoltOS/graphs/contributors"> Main developer
   <img src="https://contrib.rocks/image?&columns=25&max=10000&&repo=James7688/MoltOS" alt="contributors"/>
-<a href="https://github.com/James7688/MoltOS/graphs/contributors"> Second developer
+<a href="https://github.com/Technicianguy10321/MoltOS/graphs/contributors"> Second developer
 </a>
 
 ---
