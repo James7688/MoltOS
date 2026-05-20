@@ -99,9 +99,36 @@ All tools shipped in MoltOS are fully free, open-source, legal, and suitable for
 
 List of developers !
 
-<a href="https://github.com/James7688/MoltOS/graphs/contributors">
-  <img src="https://contrib.rocks/image?&columns=25&max=10000&&repo=James7688/MoltOS" alt="contributors"/>
+## Developers
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/James7688">
+        <img src="https://github.com/James7688.png" width="100px;" alt="James7688"/>
+        <br />
+        <sub><b>James7688</b></sub>
+      </a>
+      <br />
+      <sub>Main Developer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Technicianguy10321">
+        <img src="https://github.com/Technicianguy10321.png" width="100px;" alt="Technicianguy10321"/>
+        <br />
+        <sub><b>Technicianguy10321</b></sub>
+      </a>
+      <br />
+      <sub>Second Developer</sub>
+    </td>
+  </tr>
+</table>
+
+## Contributors
+
+<a href="https://github.com/James7688/MoltOS/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=James7688/MoltOS&columns=25&max=10000" alt="contributors"/>
+</a>
 
 ---
 #physical installer
