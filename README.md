@@ -124,6 +124,12 @@ List of developers !
   </tr>
 </table>
 
+<br />
+
+<p align="center">
+  <b>Bitcoin Donation Address:</b><br />
+  <code>bc1qqcjzf0c63eez50mgjydrnlq5pzndysx6zh9du8</code>
+</p>
 ## Contributors
 
 <a href="https://github.com/James7688/MoltOS/graphs/contributors">
@@ -131,6 +137,6 @@ List of developers !
 </a>
 
 ---
-#physical installer
-
-We are currrently going to sell disc or usb contain the image of MoltOS (or sometime MoltOS Special edition)if we arent going make it then you have to Do it yourself.
+#Futures ideas
+ARM64 (In-progress)
+Android version (future)
