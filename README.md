@@ -130,6 +130,7 @@ List of developers !
   <b>Bitcoin Donation Address:</b><br />
   <code>bc1qqcjzf0c63eez50mgjydrnlq5pzndysx6zh9du8</code>
 </p>
+
 ## Contributors
 
 <a href="https://github.com/James7688/MoltOS/graphs/contributors">
@@ -137,6 +138,8 @@ List of developers !
 </a>
 
 ---
-#Futures ideas
-ARM64 (In-progress)
-Android version (future)
+
+## Future Ideas
+
+ARM64 In-progress  
+Android version future
