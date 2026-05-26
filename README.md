@@ -128,7 +128,7 @@ List of developers !
 
 <p align="center">
   <b>Bitcoin Donation Address:</b><br />
-  <code>bc1qqcjzf0c63eez50mgjydrnlq5pzndysx6zh9du8</code>
+  <code>bc1prucx5rpymhvg5swpp20e9j64u7prxcgsyw02lq7w76mm348vwxxswv4kya</code>
 </p>
 
 ## Contributors
